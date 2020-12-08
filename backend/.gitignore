@@ -1,0 +1,11 @@
+# node.js
+node_modules/
+
+# media
+files/
+
+#json
+package-lock.json
+
+
+
