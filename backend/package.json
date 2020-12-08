@@ -2,7 +2,7 @@
   "name": "adoptme",
   "version": "1.0.0",
   "description": "adoptme backend",
-  "homepage": "https://github.com/Ameni-CHAKER/adoptme/tree/main/backend",
+  "homepage": "https://github.com/Ameni-CHAKER/adoptme.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
