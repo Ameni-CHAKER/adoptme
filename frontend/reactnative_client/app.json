@@ -1,0 +1,12 @@
+{
+  "name": "adoptme_client",
+  "displayName": "adoptme_client",
+  "expo": {
+    "name": "adoptme_client",
+    "slug": "adoptme_client",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
